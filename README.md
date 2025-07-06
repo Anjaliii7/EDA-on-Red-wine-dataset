@@ -21,52 +21,16 @@ This project performs Exploratory Data Analysis (EDA) on the **Wine Quality - Re
 - `sulphates`
 - `alcohol`
 - `quality` (target variable)
-
 ---
 
 ## 📊 EDA Process Overview
 
 ✔️ Data Loading and Inspection  
-✔️ Data Cleaning (if needed)  
+✔️ Data Cleaning   
 ✔️ Statistical Summary  
 ✔️ Null Value Checks  
-✔️ Distribution Analysis (histograms, boxplots)  
+✔️ Distribution Analysis   
 ✔️ Correlation Matrix and Heatmap  
 ✔️ Insights and Observations
 
----
-
-## 📈 Key Visualizations
-
-- Distribution plots for each numerical feature  
-- Correlation heatmap to identify feature relationships  
-- Boxplots comparing wine quality against alcohol, volatile acidity, sulphates, etc.
-
-*(Screenshots or plots can be added here if desired)*
-
----
-
-## 📌 Key Insights
-
-- **Alcohol** has a strong positive correlation with wine quality.
-- **Volatile acidity** is negatively correlated with wine quality.
-- Wines with higher **sulphates** and **citric acid** tend to have better quality.
-- No missing values detected in the dataset.
-
-*(Feel free to expand these as per your actual findings.)*
-
----
-
-## 📦 Technologies Used
-
-- Python 3.13  
-- Jupyter Notebook (VS Code)  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-
----
-
-## 📁 Project Structure
 
